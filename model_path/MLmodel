@@ -1,0 +1,13 @@
+flavors:
+  keras:
+    data: data
+    keras_module: tensorflow.keras
+    keras_version: 2.6.0
+    save_format: tf
+  python_function:
+    data: data
+    env: conda.yaml
+    loader_module: mlflow.keras
+    python_version: 3.6.13
+model_uuid: 9a0f3389d29a4859b8c2730d94df9ea3
+utc_time_created: '2023-05-19 14:07:02.516017'
