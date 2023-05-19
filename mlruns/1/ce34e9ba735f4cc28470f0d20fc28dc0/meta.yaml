@@ -2,7 +2,7 @@ artifact_uri: ./mlruns/1/ce34e9ba735f4cc28470f0d20fc28dc0/artifacts
 end_time: 1684433875190
 entry_point_name: ''
 experiment_id: '1'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: ce34e9ba735f4cc28470f0d20fc28dc0
 run_uuid: ce34e9ba735f4cc28470f0d20fc28dc0
